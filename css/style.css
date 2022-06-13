@@ -1,0 +1,22 @@
+body{
+    background-color:#4FCCC4 ;
+}
+.navbar{
+    background-color: #4FCCC4;
+    padding: #4FCCC4;
+}
+img{
+    width: 220px;
+    height: 75px;
+     
+}
+h6{
+    color: white;
+}
+h4{
+    color: #304751;
+}
+.btn{
+    float: right !important;
+    width: 215px;
+}
